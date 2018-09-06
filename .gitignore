@@ -1,0 +1,19 @@
+.springBeans
+target/
+target
+.project
+.settings
+.settings/
+.classpath
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+ipfs_data/*
+ipfs_staging/*
+
+# macOS
+.DS_Store
