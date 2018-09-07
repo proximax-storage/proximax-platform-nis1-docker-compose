@@ -43,7 +43,6 @@ An example response would be:
 ```
 {
   "contextUri": "",
-  "nemAddress": "TBNQIHIUC22BTRDVAS7D575SJLAJGKTNN57R6RWN",
   "nemNetworkProtocol": "http",
   "network": "testnet",
   "networkAddress": "23.228.67.85",
